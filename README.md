@@ -15,6 +15,7 @@ O projeto foi desenvolvido em Python utilizando sockets para comunicação entre
 - Conexão de rede para permitir a comunicação entre o servidor e os clientes.
 
 # Video do Funcionamento
+https://drive.google.com/drive/folders/1SnErY4ESTaIvDOijaE5Xo-VB4sS-peIA?usp=drive_link
 
 # Autores
 - Alexandre Del Raso Filho
